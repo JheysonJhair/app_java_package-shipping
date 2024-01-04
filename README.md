@@ -1,22 +1,51 @@
-## Programador - desarrollador web y diseñador UI/UX
-**Mr. Jheyson Jhair**
+<div align="center">
+    <a href="https://github.com/JheysonJhair/encomienda_system.git">
+      <img src="public/logo.jpg" width="148px" />
+    </a>
+    <h1>Unamba - Sistema de encomienda</h1>
+    <p align="center">
+        Full Stack Developer Jhair
+    </p>
+</div>
 
-## Sistema de encomienda
-[![Header](https://nombre.vukki.net/significado/imagen/0-0-0-0-0/M/jhair.jpg "Header")]()
+## Preview
 
-[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/jheyson_jhair_aa/)
-[![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/2J7dPnURHc)
-[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/JheysonJhair)
+![Preview](public/preview.png)
 
-## 👉 Descripción
-Es un proyecto creado en el entorno de NetBenas - Java, que como tal es un software que registra una encomienda junto a su destino, cliente, conductor, vehiculo.
+## Módulos
 
-## Instalación
-Este proyecto no necesita instalación. Simplemente abre la carpeta src y click el main, a considerar que requiere de librerias de coneccion , itextpdf, jcalendar, jfreechart y mysql connector.
+- Módulo de Facturación
+- Módulo de Productos
+- Módulo de Cliente
+- Módulo de Proveedor
+- Módulo de Vehículo
+- Módulo de Conductor
+- Módulo de Reporte
+- Módulo de Administrador
 
-## Contratación
-Si quieres contratarme puedes escribirme  a jhair2003unamba@gmail.com para consultas.
+## Tecnologías
 
-## 📝 Elementos utilizados:
-- [Java]
-- [MySql]
+Este proyecto utiliza las siguientes tecnologías:
+
+- Java
+- MySql
+
+## Cómo levantar el proyecto
+
+1. Clona el repositorio.
+
+```bash
+git clone https://github.com/JheysonJhair/encomienda_system.git
+```
+
+```bash
+cd encomienda_system
+```
+
+2. Ejecuta tu entorno de desarrollo para java y abre el proyecto
+
+3. Establece como proyecto de inicio `SistemaEncomienda/SistemaEncomienda.java`.
+
+4. Ejecuta la aplicación.
+
+¡Listo! Ahora puedes comenzar a trabajar en el Sistema sin problemas.
