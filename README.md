@@ -51,8 +51,8 @@ La aplicación cuenta con los siguientes módulos especializados:
 
 2. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/usuario/app_gestion_envios_paquetes.git
-   cd app_gestion_envios_paquetes
+   git clone https://github.com/JheysonJhair/app_java_package-shipping
+   cd app_java_package-shipping
    
 
 
