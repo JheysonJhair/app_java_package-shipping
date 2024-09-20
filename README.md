@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/JheysonJhair/encomienda_system.git">
+    <a href="https://github.com/JheysonJhair/app_java_package-shipping">
       <img src="public/Logo.png" width="108px" />
     </a>
     <h1>JhairDev - Sistema de encomienda</h1>
@@ -51,7 +51,7 @@ La aplicación cuenta con los siguientes módulos especializados:
 
 2. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/JheysonJhair/app_java_package-shipping
+   git clone https://github.com/JheysonJhair/app_java_package-shipping.git
    cd app_java_package-shipping
    
 
