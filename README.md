@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/JheysonJhair/encomienda_system.git">
-      <img src="public/Logo.png" width="108px" />
+      <img src="public/Logojj.png" width="108px" />
     </a>
     <h1>JhairDev - Sistema de encomienda</h1>
     <p align="center">
